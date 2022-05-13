@@ -1,0 +1,175 @@
+
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 17px;
+    border-radius: 6px;
+    border-color: whitesmoke;
+    border-width: 5px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+    font-size: 50px;
+    background-color:mistyrose;
+    color: darkgreen;
+}
+.bottom{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color:darkblue;
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5{
+    color: white;
+}
+span{
+    color: red;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+}
+.bottom1{
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+} 
+body{
+ background-image: linear-gradient(to right, black , grey , white);
+}
+    
+ #w-1{
+height:300px;
+ width:500px;   
+}
+#w-2{
+    height:300px;
+    width:500px; 
+}
+#w-3{
+    height:300px;
+    width:500px; 
+}
+#w-4{
+    height:300px;
+    width:500px; 
+}
+#w-5{
+    height:300px;
+    width:500px; 
+}
+#w-6{
+    height:300px;
+    width:500px; 
+}
+#w-7{
+    height:300px;
+    width:500px; 
+}
+#w-8{
+    height:350px;
+    width:500px;
+}
+#w-9{
+ height:300px;
+ width:500px; 
+}
+#w-10{
+    height:300px;
+    width:500px; 
+}
+#w-11{
+    height:300px;
+    width:500px; 
+}
+#w-12{
+    height:300px;
+    width:500px; 
+}
+#w-13{
+    height:300px;
+    width:500px; 
+}
+#w-14{
+    height:300px;
+    width:500px; 
+}
+#w-14{
+    height:300px;
+    width:500px; 
+}
+#w-15{
+    height:300px;
+    width:500px; 
+}
+#wed{
+    font-size:50px;
+    color:white;
+}
+#h1t{
+    color:white;
+}
+#pfs1{
+    border-color: white;
+    border-width:10px;
+    width:1300px;
+    height:750px;
+    border-radius:10px;
+    
+}#per{
+    border-color: white;
+    border-width:10px;
+    width:1500px;
+    height:550px;
+    border-radius:10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading complete
